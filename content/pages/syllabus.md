@@ -32,8 +32,45 @@ Groups of 1–4 submit topics for a final project. Teams will design and implem
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Attend Lectures | 20% |
-| Problem Sets | 40% |
-| Final Project | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attend Lectures
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
