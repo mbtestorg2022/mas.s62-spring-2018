@@ -169,7 +169,7 @@ Maxwell, Gregory, Andrew Poelstra, Yannick Seurin and Pieter Wuille. "[Simple Sc
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 7: OP\_RETURN and Catena (PDF)]({{< baseurl >}}/resources/mas-s62s18-lec07)
+[Lecture 7: OP\_RETURN and Catena (PDF)]({{< baseurl >}}/resources/mas-s62s18-lec07)
 
 Guest Lecturer: Alin Tomescu
 
